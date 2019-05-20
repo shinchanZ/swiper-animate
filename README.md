@@ -3,7 +3,7 @@
 
 ## 在vue中的使用方法
 ### 1.    引入</br>
-                            ```import * as swiperAni from '@/utils/swiper.animate.min.js'```
+                            import * as swiperAni from '@/utils/swiper.animate.min.js'
 ### 2.    配置</br>
                         
           
